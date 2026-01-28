@@ -2,15 +2,16 @@
 <h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Manousos+Sagonas;Junior+Software+Developer"
-    alt="Typing SVG"
+     width="380" alt="Typing SVG"
   />
 </h1>
 
 
 
 
+
 <h3 align="center">A passionate programmer</h3>
-<img align="center" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center"> <img  alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manousossagonas&label=Profile%20views&color=0e75b6&style=flat" alt="manousossagonas" /> </p>
 
@@ -25,4 +26,5 @@
 
 
 
-<p><img align="center" alt="coding width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFraTA5ampuMjhyN3A0ZnJtMDZoZGFhejR5djhoOGs0bnN5Nm11MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"></p>
+<p align="center">
+  <img  alt="coding width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFraTA5ampuMjhyN3A0ZnJtMDZoZGFhejR5djhoOGs0bnN5Nm11MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"></p>
